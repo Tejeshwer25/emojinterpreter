@@ -1,0 +1,28 @@
+.inputContainer {
+    text-align: center;
+    font-size: 1.3rem;
+}
+
+.inputContainer > h4 > code {
+    background-color: #00000036;
+    font-weight: 200;
+    font-size: 1.1rem;
+    padding: 5px;
+}
+
+.inputContainer > input {
+    margin-top: 1rem;
+    padding: 0.5rem 1rem;
+    border: none;
+    border-bottom: 2px solid black;
+    width: 40%;
+    outline: none;
+    font-size: 1.2rem;
+    text-align: center;
+}
+
+@media(max-width: 300px) {
+    .inputContainer > input {
+        width: 100%;
+    }
+}

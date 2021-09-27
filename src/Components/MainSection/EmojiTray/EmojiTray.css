@@ -1,0 +1,18 @@
+.emojiTray {
+    font-size: 1.25rem;
+    text-align: center;
+}
+
+.emojiTray__emojis {
+    width: 45%;
+    margin: 1rem auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.emojiTray__emojis > div {
+    font-size: 2rem;
+    cursor: pointer;
+}

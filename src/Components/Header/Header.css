@@ -1,0 +1,16 @@
+.header {
+    background-image: url(../../Images/emoji_background.jpg);
+    background-position: center;
+    background-size: cover;
+    padding: 1.5rem 0rem;
+    background-color: #e3e3e3;
+    text-align: center;
+}
+
+.header > h1 {
+    background-color: rgba(0, 0, 0, 0.9);
+    width: fit-content;
+    margin: auto;
+    color: #e3e3e3;
+    padding: 0.5rem 1rem;
+}

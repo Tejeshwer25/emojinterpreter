@@ -1,0 +1,16 @@
+.footer {
+    background-color: #e3e3e3;
+    padding: 1.5rem 0rem;
+    text-align: center;
+    margin-top: 6rem;
+}
+
+.footer span {
+    color: red;
+}
+
+.footer > h3 > a {
+    text-decoration: none;
+    color: #35081de1;
+    font-weight: 900;
+}

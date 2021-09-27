@@ -1,0 +1,7 @@
+.mainSection {
+    padding: 0rem 0.7rem;
+}
+
+.mainSection > div {
+    margin: 4.85rem 0rem
+}
